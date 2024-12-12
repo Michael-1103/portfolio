@@ -11,6 +11,7 @@ import {
   DiJava,
   DiHtml5,
   DiCss3,
+  DiNodejsSmall,
 } from "react-icons/di";
 import {
   SiRedis,
@@ -41,6 +42,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejsSmall />
       </Col>
 
     </Row>
