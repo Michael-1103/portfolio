@@ -27,7 +27,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Je peut tout à fait appendre de nouveaux langages de programmation
+              Je peux tout à fait apprendre de nouveaux langages de programmation
               <i>
                 <b className="purple"> en peu de temps. </b>
               </i>
