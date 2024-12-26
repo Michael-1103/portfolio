@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             Je suis actuellement Étudiant en 1ère année à<span className="purple"> Epitech</span> sur le campus de Moulins.
             <br />
-            J'ai également étudier au lycée général et technologique <span className="purple">Jean Zay</span> à Thiers
+            J'ai également étudié au lycée général et technologique <span className="purple">Jean Zay</span> à Thiers
             <br />
             <br />
             J'aime également,
