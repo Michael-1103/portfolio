@@ -9,7 +9,6 @@ function Type() {
           "Software Developer",
           "Freelance",
           "Developpeur Web",
-          "Réparateur Smartphone",
         ],
         autoStart: true,
         loop: true,

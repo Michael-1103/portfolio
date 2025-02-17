@@ -33,13 +33,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Je suis également capable de réparer un <b className="purple">iPhone</b> ou tout autre
-              <i>
-                <b className="purple">
-                  {" "}
-                  Smartphone.
-                </b>
-              </i>
+              Je suis également capable de réparer un <b className="purple">Ordinateur</b> et de le monter.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
