@@ -19,6 +19,9 @@ function AboutCard() {
             J'aime également,
           </p>
           <ul>
+          <li className="about-activity">
+              <ImPointRight /> L'informatique
+            </li>
             <li className="about-activity">
               <ImPointRight /> Les jeux vidéos
             </li>
@@ -26,7 +29,7 @@ function AboutCard() {
               <ImPointRight /> La musique
             </li>
             <li className="about-activity">
-              <ImPointRight /> Les voitures
+              <ImPointRight /> L'Automobile
             </li>
           </ul>
 
