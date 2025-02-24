@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import Hunter from "../../Assets/Projects/hunter.png";
+import Realitek from "../../Assets/Projects/realitek.png"
 
 function Projects() {
   return (
@@ -25,7 +26,15 @@ function Projects() {
               ghLink="https://github.com/EpitechPGEPromo2029/B-MUL-100-MLN-1-1-myhunter-michael.derrien"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Realitek}
+              isBlog={false}
+              title="Realitek"
+              description="Site Internet de notre club de Réalité Virtuelle monté par des étudiants d'EPITECH pour faire découvrir la VR."
+              demoLink="https://realitek.vercel.app/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
