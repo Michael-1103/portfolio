@@ -31,7 +31,7 @@ function Projects() {
               imgPath={Realitek}
               isBlog={false}
               title="Realitek"
-              description="Site Internet de notre club de Réalité Virtuelle monté par des étudiants d'EPITECH pour faire découvrir la VR."
+		description="Site Internet de notre club de Réalité Virtuelle, monté par des étudiants d'EPITECH pour faire découvrir la VR."
               demoLink="https://realitek.vercel.app/"
             />
           </Col>
