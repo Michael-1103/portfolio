@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Enchanté, je m'appelle <span className="purple">Derrien Michaël </span>
+            Enchanté, je m'appelle <span className="purple">Michaël Derrien </span>
             je suis originaire de <span className="purple"> Clermont-Ferrand, en France.</span>
             <br />
             Je suis actuellement Étudiant en 1ère année à<span className="purple"> Epitech</span> sur le campus de Moulins.
