@@ -23,7 +23,7 @@ function Projects() {
               isBlog={false}
               title="My Hunter"
               description="Une reproduction du célèbre jeu Duck Hunt, de NINTENDO, où le principe est de tirer sur les canards à l'écran."
-              ghLink="https://github.com/EpitechPGEPromo2029/B-MUL-100-MLN-1-1-myhunter-michael.derrien"
+              ghLink="https://github.com/Michael-1103/my_hunter/"
             />
           </Col>
           <Col md={4} className="project-card">
